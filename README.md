@@ -23,4 +23,11 @@ My personal portfolio website showcasing projects, skills, and achievements.
 - CSS
 - JS
 
+## To run this project
+
+- git clone https://github.com/sreeja200/SREEJA-GUNNAM-PORTFOLIO-WEBSITE.git
+- cd SREEJA-GUNNAM-PORTFOLIO-WEBSITE
+- start index.html
+  
+
 
