@@ -19,8 +19,10 @@ My personal portfolio website showcasing projects, skills, and achievements.
 
 ## Technologies Used
 
--HTML
--CSS
--JS
+- HTML
+
+- CSS
+
+- JS
 
 
