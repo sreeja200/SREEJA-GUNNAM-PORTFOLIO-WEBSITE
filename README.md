@@ -28,6 +28,9 @@ My personal portfolio website showcasing projects, skills, and achievements.
 - git clone https://github.com/sreeja200/SREEJA-GUNNAM-PORTFOLIO-WEBSITE.git
 - cd SREEJA-GUNNAM-PORTFOLIO-WEBSITE
 - start index.html
+##
+🌐 Live Demo: Visit my portfolio on Live 
+- https://sreeja-gunnam-portfolio.netlify.app/
   
 
 
